@@ -1,0 +1,14 @@
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\bin\Debug\net6.0\Laboratorna 1.exe
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\bin\Debug\net6.0\Laboratorna 1.deps.json
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\bin\Debug\net6.0\Laboratorna 1.runtimeconfig.json
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\bin\Debug\net6.0\Laboratorna 1.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\bin\Debug\net6.0\Laboratorna 1.pdb
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\obj\Debug\net6.0\Laboratorna 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\obj\Debug\net6.0\Laboratorna 1.AssemblyInfoInputs.cache
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\obj\Debug\net6.0\Laboratorna 1.AssemblyInfo.cs
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\obj\Debug\net6.0\Laboratorna 1.csproj.CoreCompileInputs.cache
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\obj\Debug\net6.0\Laboratorna 1.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\obj\Debug\net6.0\refint\Laboratorna 1.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\obj\Debug\net6.0\Laboratorna 1.pdb
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\obj\Debug\net6.0\Laboratorna 1.genruntimeconfig.cache
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 1\Laboratorna 1\obj\Debug\net6.0\ref\Laboratorna 1.dll
