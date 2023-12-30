@@ -1,0 +1,28 @@
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.exe
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.deps.json
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.runtimeconfig.json
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.pdb
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.AssemblyInfoInputs.cache
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.AssemblyInfo.cs
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.csproj.CoreCompileInputs.cache
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\obj\Debug\net6.0\refint\Laboratorna 4.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.pdb
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.genruntimeconfig.cache
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4\Laboratorna 4\obj\Debug\net6.0\ref\Laboratorna 4.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.exe
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.deps.json
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.runtimeconfig.json
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\bin\Debug\net6.0\Laboratorna 4.pdb
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.AssemblyInfoInputs.cache
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.AssemblyInfo.cs
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.csproj.CoreCompileInputs.cache
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\obj\Debug\net6.0\refint\Laboratorna 4.dll
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.pdb
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\obj\Debug\net6.0\Laboratorna 4.genruntimeconfig.cache
+D:\Programming\KPI programs\Здор Костянтин\Laboratorna 4 2 спосіб\Laboratorna 4\obj\Debug\net6.0\ref\Laboratorna 4.dll
